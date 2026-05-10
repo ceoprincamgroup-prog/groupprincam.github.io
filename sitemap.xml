@@ -3,60 +3,60 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://ceoprincamgroup-prog.github.io/groupprincam.github.io/</loc>
+    <loc>https://www.princamgroup.info/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://ceoprincamgroup-prog.github.io/groupprincam.github.io/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ceoprincamgroup-prog.github.io/groupprincam.github.io/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://ceoprincamgroup-prog.github.io/groupprincam.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.princamgroup.info/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.princamgroup.info/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.princamgroup.info/"/>
   </url>
 
   <!-- Sectors -->
   <url>
-    <loc>https://ceoprincamgroup-prog.github.io/groupprincam.github.io/#sector-mining</loc>
+    <loc>https://www.princamgroup.info/#sector-mining</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ceoprincamgroup-prog.github.io/groupprincam.github.io/#sector-finance</loc>
+    <loc>https://www.princamgroup.info/#sector-finance</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ceoprincamgroup-prog.github.io/groupprincam.github.io/#sector-telecom</loc>
+    <loc>https://www.princamgroup.info/#sector-telecom</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ceoprincamgroup-prog.github.io/groupprincam.github.io/#sector-energy</loc>
+    <loc>https://www.princamgroup.info/#sector-energy</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ceoprincamgroup-prog.github.io/groupprincam.github.io/#sector-agriculture</loc>
+    <loc>https://www.princamgroup.info/#sector-agriculture</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ceoprincamgroup-prog.github.io/groupprincam.github.io/#sector-transport</loc>
+    <loc>https://www.princamgroup.info/#sector-transport</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ceoprincamgroup-prog.github.io/groupprincam.github.io/#sector-oil</loc>
+    <loc>https://www.princamgroup.info/#sector-oil</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ceoprincamgroup-prog.github.io/groupprincam.github.io/#sector-construction</loc>
+    <loc>https://www.princamgroup.info/#sector-construction</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -64,7 +64,7 @@
 
   <!-- Projects -->
   <url>
-    <loc>https://ceoprincamgroup-prog.github.io/groupprincam.github.io/#projects</loc>
+    <loc>https://www.princamgroup.info/#projects</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -72,7 +72,7 @@
 
   <!-- Mining JV -->
   <url>
-    <loc>https://ceoprincamgroup-prog.github.io/groupprincam.github.io/#mining</loc>
+    <loc>https://www.princamgroup.info/#mining</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -80,7 +80,7 @@
 
   <!-- Contact -->
   <url>
-    <loc>https://ceoprincamgroup-prog.github.io/groupprincam.github.io/#contact</loc>
+    <loc>https://www.princamgroup.info/#contact</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
