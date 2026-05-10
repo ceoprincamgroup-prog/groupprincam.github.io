@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ceoprincamgroup-prog.github.io/groupprincam.github.io/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 5
